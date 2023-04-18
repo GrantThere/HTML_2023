@@ -1,0 +1,42 @@
+img {
+    background: none;
+    width: 100px;
+    height: 100px;
+    margin-left: 36vw;
+}
+
+section {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+#topp {
+    background-color: #e83f3f;
+}
+
+#midd {
+    background-color: #1db6c2;
+}
+
+#bott {
+    background-color: #50e83f;
+}
+
+div {
+   width: 80vw;
+    padding-top: 5vh;
+
+}
+
+p {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
