@@ -1,0 +1,43 @@
+body {
+    padding-top: 10%;
+}
+
+form {
+    width: 60vw;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.fid {
+    margin-bottom: 5%;
+    width: 100%;
+    height: 3vh;
+}
+
+div input {
+    height: 100%;
+}
+
+#fid {
+    margin-bottom: 5%;
+    width: 100%;
+    height: 3vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+#JN {
+    margin-bottom: 5%;
+    width: 100%;
+    height: 4vh;
+    background-color: yellow;
+    border: #80801b 1px solid;
+}
