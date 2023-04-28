@@ -1,0 +1,42 @@
+body {
+    margin: 0 auto;
+}
+
+.a6 {
+    width: 98vw;
+    height: 20vh;
+    background-color: #1db6c2;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+.f_1_6 {
+    display: flex;
+    width: 98vw;
+    height: 78vh;
+    margin: 0 auto;
+}
+
+.f_2_6 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 78%;
+    height: 100%;
+}
+
+.f6 {
+    width: 22%;
+    height: 96%;
+    background-color: #1db6c2;
+    margin-top: 1%;
+    border-radius: 30px;
+}
+
+.e6 {
+    width: 30%;
+    height: 45%;
+    background-color: #1db6c2;
+    margin-right: 3%;
+    margin-top: 2%;
+    border-radius: 30px;
+}

@@ -1,0 +1,24 @@
+@media screen and (min-width:300px) and (max-width: 700px){
+    .AA {
+        height: 15vh;
+    }
+    .FL_1 {
+        flex-direction: column;
+        margin-top: 2vh;
+
+    }
+    .FL_2 {
+        width: 100vw;
+        margin-bottom: 2vh;
+    }
+    .B {
+        width: 100%;
+    }
+    .FL_3 {
+        width: 100%;
+        margin-top: 2vh;
+    }
+    .F {
+        height: 30vh;
+    }
+}
